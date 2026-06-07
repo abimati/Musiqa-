@@ -1,0 +1,6 @@
+{
+  "name": "Musiqa Tiles",
+  "description": "A sleek, modern, energetic web-based rhythm game featuring high-performance canvas rendering and real-time interactive beats.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
